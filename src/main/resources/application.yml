@@ -1,0 +1,8 @@
+micronaut:
+    application:
+        name: kt-property
+app:
+    string: test1
+    map:
+        key1: value1
+        key2: value2
